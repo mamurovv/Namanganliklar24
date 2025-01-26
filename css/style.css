@@ -11,9 +11,19 @@ body{
   height: 100%;
   margin: 0;
   padding: 0;
+  font-family: "Rubik","Arial", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #4a4b4c;
 
 }
 img{
   max-width: 100%;
   height: auto;
+}
+.container{
+  width: 1240px;
+max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
